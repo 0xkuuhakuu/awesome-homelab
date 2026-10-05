@@ -9,7 +9,7 @@ Free tools, real configs, and learning materials for self-hosting with GitOps.
 
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-2da44e)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-2da44e)](CONTRIBUTING.md)
-[![Links](https://github.com/Minh141120/awesome-homelab/actions/workflows/lint.yml/badge.svg)](https://github.com/Minh141120/awesome-homelab/actions/workflows/lint.yml)
+[![Links](https://github.com/0xkuuhakuu/awesome-homelab/actions/workflows/lint.yml/badge.svg)](https://github.com/0xkuuhakuu/awesome-homelab/actions/workflows/lint.yml)
 
 [The Map](#the-map) · [App Cookbook](#10-apps) · [Real Repos](#real-repos) · [Explore](#explore) · [Community](#community)
 
