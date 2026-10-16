@@ -135,7 +135,7 @@ flowchart LR
 
 **In the wild**
 
-- **onedr0p** — [kubernetes/flux/](https://github.com/onedr0p/home-ops/tree/main/kubernetes/flux/cluster)
+- **onedr0p** — [kubernetes/](https://github.com/onedr0p/home-ops/tree/main/kubernetes)
 - **khuedoan** — [system/ (Argo CD)](https://github.com/khuedoan/homelab/tree/master/system)
 
 **Read**
@@ -273,7 +273,7 @@ flowchart LR
 
 - **onedr0p** — [.renovaterc.json5](https://github.com/onedr0p/home-ops/blob/main/.renovaterc.json5)
 - **buroa** — [.renovate/](https://github.com/buroa/home-ops/tree/main/.renovate)
-- **buroa** — [flate workflow](https://github.com/buroa/home-ops/blob/main/.github/workflows/flate.yaml)
+- **buroa** — [workflows](https://github.com/buroa/home-ops/tree/main/.github/workflows)
 - **xunholy** — [flux-local workflow](https://github.com/xunholy/k8s-gitops/blob/main/.github/workflows/flux-local.yaml)
 
 ## 10 Apps
@@ -327,7 +327,7 @@ The best documentation in this hobby is other people's Git history. Start where 
 
 | Repo | Stack | Start reading at |
 |---|---|---|
-| [onedr0p/home-ops](https://github.com/onedr0p/home-ops) | Talos · Flux · Rook | [`talos/`](https://github.com/onedr0p/home-ops/tree/main/talos), then [`kubernetes/flux/`](https://github.com/onedr0p/home-ops/tree/main/kubernetes/flux) |
+| [onedr0p/home-ops](https://github.com/onedr0p/home-ops) | Talos · Flux · Rook | [`talos/`](https://github.com/onedr0p/home-ops/tree/main/talos), then [`kubernetes/`](https://github.com/onedr0p/home-ops/tree/main/kubernetes) |
 | [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) | Talos · Flux · Compose | [`docker/`](https://github.com/bjw-s-labs/home-ops/tree/main/docker) for GitOps without Kubernetes |
 | [buroa/home-ops](https://github.com/buroa/home-ops) | Talos · Flux | [`.renovate/`](https://github.com/buroa/home-ops/tree/main/.renovate) for update automation |
 | [joryirving/home-ops](https://github.com/joryirving/home-ops) | Talos · Flux · OpenTofu | [`terraform/`](https://github.com/joryirving/home-ops/tree/main/terraform) for managing apps as code |
