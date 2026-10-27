@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This repository is deprecated and no longer maintained.**
+> Development has moved to [Minh141120/awesome-homelab](https://github.com/Minh141120/awesome-homelab). Please visit the new repository for the latest updates and contributions.
+
 <div align="center">
 
 <img src="logo.svg" alt="awesome-homelab" width="600">
